@@ -6,8 +6,7 @@ import numpy as np
 app = Flask(__name__)
 
 @app.route("/")
-def index():
-    return "Welcome To Diabetes APP"
+
 @app.route("/Diabetes")
 def diabetes():
     return render_template("diabetes.html")
