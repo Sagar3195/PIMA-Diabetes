@@ -1,2 +1,2 @@
-# PIMA-Diabetes
-PIMA-Diabetes Prediction
+# Diabetes-Prediction-Deployment
+Diabetes - Prediction - Deployment
